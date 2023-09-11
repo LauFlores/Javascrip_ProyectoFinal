@@ -1,3 +1,5 @@
+# Ingresar aquí para ver el sitio:  https://lauflores.github.io/Javascrip_ProyectoFinal/
+
 # Curso JavaScript Coderhouse
 
 ## Proyecto Final
@@ -11,4 +13,6 @@ Se utiliza la librería [SweetAlert](https://sweetalert.js.org/) para finalizar 
 Se utiliza [MOCKY](https://run.mocky.io/) para generar una fake API que contenga la información de las distintas opciones de esmalte.
 
 El consumo de la API se realiza con **async/await** y **fetch()** para generar el menú de la página principal y el menú donde se elegen los tonos de colores, en la página de pedidos.
+
+
 
