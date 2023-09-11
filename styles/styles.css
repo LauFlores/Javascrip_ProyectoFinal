@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#app {
+    background-image: url(https://source.unsplash.com/li0iC0rjvvg);
+}
+
+h1 {
+    font-size: 45px;
+    margin-bottom: 50px;
+    color: rgb(0, 0, 0);
+}
+
+#app {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    background-color: #F2059F;
+    align-items: center;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.6);
+}
+
+#contenedor-logo a{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#contenedor-logo img {
+    width: 50px;
+    margin-right: 15px;
+}
+
+a {
+    color: white;
+    padding: 0px 10px;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    list-style: none;
+    margin: 5px;
+    padding: 0px 10px;
+    color: white;
+}
+
+#boton-iniciar {
+    border-style: none;
+    background-color: #F7B8BB;
+    width: 160px;
+    height: 50px;
+    font-size: 18px;
+    align-self: center;
+    border-radius: 5px;
+}
+
+#boton-iniciar:hover {
+    background-color: rgb(0, 0, 0);
+}
+
+#boton-iniciar a {
+    text-decoration: none;
+    color: white;
+}
+
+#nosotros {
+    max-width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    margin: 50px;
+}
+
+#nosotros h1 {
+    width: 100%;
+    text-align: center;
+}
+
+#nosotros p {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    margin: 20px 20px;
+    box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.301);
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+#imagen img {
+    margin-top: 50px;
+}
+
+#menu-esmaltes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7B8BB;
+    padding: 50px;
+    width: 100%;
+}
+
+#menu-contenedor {
+    width: 70%;
+    background-color: #F7B8BB;
+}
+
+#menu-contenedor div {
+    margin: 30px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.301);
+    border-radius: 5px;
+}
+
+#menu-contenedor div p {
+    margin: 7px;
+}
+
+footer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F2059F;
+    color: white;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.6);
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer ul {
+    display: flex;
+    flex-direction: column;
+}
+
+#contenedor-home, #contenedor-copyright, #contenedor-redes {
+    width: 100%;
+}
+
+#contenedor-copyright a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#contenedor-copyright a p {
+    margin-right: 15px;
+}
+
+.icono-footer {
+    width: 35px;
+}
+
+#contenedor-redes ul {
+    display: flex;
+    flex-direction: row;
+    justify-content:end;
+}
+
+.redes-sociales {
+    width: 35px;
+}

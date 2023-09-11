@@ -1,0 +1,41 @@
+{
+    "esmaltes": [
+        {
+            "id": 1,
+            "colores":  "Tonos blancos",
+            "sufijo": "TB",
+            "descripcion": "009 Super White, 091 Blanco French, 410 Via Lactea, 120 Pearly White, 605 Miami Pop y 654 Cosmopolitan"
+        },
+        {
+            "id": 2,
+            "colores":  "Tonos rosas a rojo",
+            "sufijo": "TR",
+            "descripcion": "764 Pink Satin, 235 Lovely Rose, 495 Pink Flamingo, 125 Sweet Cherry, 514 Raspberry Beret y 484 Alpha Omega"
+        },
+        {
+            "id": 3,
+            "colores":  "Tonos gliter",
+            "sufijo": "TG",
+            "descripcion": "602 Funky Town, 832 Lust for Life, 610 Shine a Light, 386 Glitter, 263 Soho Night y 262 Palladium Party"
+        },
+        {
+            "id": 4,
+            "colores":  "Tonos violetas",
+            "sufijo": "TV",
+            "descripcion": "470 Lilac Shade, 471 Lavender Mist, 150 Purple Shine, 050 Soft Plum, 203 Indigo Sun y 215 Purple Rain"
+        },
+        {
+            "id": 5,
+            "colores":  "Tonos marrones",
+            "sufijo": "TM",
+            "descripcion": "498 Neutral, 011 Champagne Rose, 909 Pearl of Orient, 081 Venetian Wedding, 592 Luxor Whisper y 399 Paris Amour"
+        },
+        {
+            "id": 6,
+            "colores":  "Tonos grises a negro",
+            "sufijo": "TG",
+            "descripcion": "403 New York Grey, 549 Ashes of Love, 606 Silver Diamond, 162 Halloween, 410 Dark Knight y 397 Black"
+        }
+    ]
+}
+
